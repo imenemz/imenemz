@@ -31,8 +31,8 @@ An employee time-tracking and team-management platform currently under developme
 
 ## Learning credentials
 
-- AWS Academy Cloud Foundations
-- AWS Academy Data Engineering
+- [AWS Academy Cloud Foundations](https://www.credly.com/badges/b0b91d2e-d694-4b19-8248-c803ac73bef0/public_url)
+- [AWS Academy Data Engineering](https://www.credly.com/badges/0b73d294-5a31-44a4-8e55-8b91ee22847e/public_url)
 
 ## Contact
 
