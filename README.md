@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Imene Mazouz 👋
 
-<!--
-**imenemz/imenemz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an MSc student at Epitech with a bachelor's degree in Science and Technology, specialising in Artificial Intelligence.
 
-Here are some ideas to get you started:
+I'm interested in machine learning, backend development, and healthcare AI. I enjoy building practical applications and using data to solve problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm seeking a **two-year apprenticeship starting in 2026** in AI, data science, or backend development.
+
+## Projects
+
+### [ClinicalRoots](https://github.com/imenemz/clinicalroots.co.uk)
+A medical education platform built with Python, Flask, SQL, and JavaScript, with ongoing work on an AI assistant.
+
+[Visit the website](https://clinicalroots.co.uk/)
+
+### Used-Car Price Prediction
+A Python machine learning project comparing Linear Regression, Random Forest, and Gradient Boosting to predict vehicle prices.
+
+### Credit Default Risk Prediction
+An R project exploring classification models, feature engineering, and cost-sensitive evaluation.
+
+### Time Manager — Team Project
+An employee time-tracking and team-management platform currently under development, using FastAPI and Docker.
+
+## Technologies
+
+- **Data & Machine Learning:** Python, R, SQL, Pandas, NumPy, Scikit-learn
+- **Backend:** Flask, FastAPI, REST APIs
+- **Web:** JavaScript, HTML, CSS
+- **Tools:** Git, Docker, Linux
+
+## Learning credentials
+
+- AWS Academy Cloud Foundations
+- AWS Academy Data Engineering
+
+## Contact
+
+[Email me](mailto:imenemazouz05@gmail.com)
