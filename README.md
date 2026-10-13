@@ -1,4 +1,4 @@
-# Hi, I'm Imene Mazouz 👋
+# Hi, I'm Imene Mazouz 
 
 I'm an MSc student at Epitech with a bachelor's degree in Science and Technology, specialising in Artificial Intelligence.
 
